@@ -19,6 +19,8 @@ Package                                | Version                                
 
 ## Getting Started
 
+* https://nikiforovall.github.io/aspnetcore/dotnet/2022/08/24/dotnet-keycloak-auth.html
+
 ```csharp
 // Program.cs
 var builder = WebApplication.CreateBuilder(args);
